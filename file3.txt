@@ -1,0 +1,4 @@
+data structures is fun
+i love C
+goodbye
+123 hello
